@@ -352,7 +352,7 @@
         SubmitResults();
         if (score <= 49) return '试着好好吹一下';
         if (score <= 99) return '帽子戏法？';
-        if (score <= 149) return '这才是是宏志生';
+        if (score <= 149) return '这才是宏志生';
         if (score <= 199) return '双手合十做自己的神，张开双手比肩神明';
         return 'nmsl';
     }
