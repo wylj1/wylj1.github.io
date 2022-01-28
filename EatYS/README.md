@@ -9,6 +9,8 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉小杨硕（修改于EatKano）
 
+链接：https://wylj1.github.io/EatYS/
+
 ## 原项目
 
 [线上版本](https://xingye.me/game/eatkano/index.php)
